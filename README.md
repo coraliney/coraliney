@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @coraliney!
-- 👀 I’m interested in being creative and developing!
-- 🌱 I’m currently learning front end development.
-- 💞️ I’m looking to collaborate on.. what was that?
+- 👀 Creative developer and photographer.
+- 🌱 Currently learning front end development.
 - 📫 How to reach me --> through my computer.
 
 <!---
